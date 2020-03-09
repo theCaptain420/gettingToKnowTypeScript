@@ -1,0 +1,19 @@
+{
+  "name": "gettingtoknowtypescript",
+  "version": "1.0.0",
+  "description": "type script mastering repo",
+  "main": "index.js",
+  "scripts": {
+    "test": ";)"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theCaptain420/gettingToKnowTypeScript.git"
+  },
+  "author": "TheCaptain420",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/theCaptain420/gettingToKnowTypeScript/issues"
+  },
+  "homepage": "https://github.com/theCaptain420/gettingToKnowTypeScript#readme"
+}
