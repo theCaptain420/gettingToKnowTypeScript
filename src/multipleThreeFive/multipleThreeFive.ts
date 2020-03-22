@@ -18,3 +18,4 @@ export default function totalSumDividedByNumbers(from:number, to:number, num1:nu
 
 console.log(totalSumDividedByNumbers(0,1000,3,5))
 
+//https://projecteuler.net/problem=1
