@@ -16,3 +16,5 @@ export default function totalSumDividedByNumbers(from:number, to:number, num1:nu
     return finalNumberSum; 
 }
 
+console.log(totalSumDividedByNumbers(0,1000,3,5))
+
