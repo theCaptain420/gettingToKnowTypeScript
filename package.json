@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/theCaptain420/gettingToKnowTypeScript/issues"
   },
-  "homepage": "https://github.com/theCaptain420/gettingToKnowTypeScript#readme"
+  "homepage": "https://github.com/theCaptain420/gettingToKnowTypeScript#readme",
+  "devDependencies": {
+    "jest": "^25.1.0"
+  }
 }

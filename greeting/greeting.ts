@@ -4,6 +4,7 @@
 
 //node "filename.js" - to run the js file after
 
+//tsc .\multipleThreeFive.ts | node .\multipleThreeFive.js
 
 class Student {
     fullName: string;
