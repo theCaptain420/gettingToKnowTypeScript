@@ -1,5 +1,5 @@
 import totalSumDividedByNumbers from './multipleThreeFive'; 
 
 test("starter test", ()=>{
-expect(totalSumDividedByNumbers(1,1,1,1)).toBe(10);
+expect(totalSumDividedByNumbers(0,10,3,5)).toBe(23);
 })
